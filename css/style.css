@@ -2,48 +2,32 @@
     background-color: #ffffff;
 }
 
-.one {
+.square {
     width: 150px;
     height: 150px;
-    background-color: black;
     margin-bottom: 10px;
     margin-left: 120px;
-  
-  
-   
+}
+
+.one {
+    background-color: black;
 }
 
 .two {
-    width: 150px;
-    height: 150px;
     background-color: #0000009d;
-    margin-bottom: 10px;
-    margin-left: 120px;
-
 }
 
 .three {
-    width: 150px;
-    height: 150px;
     background-color: #00000057;
-    margin-bottom: 10px;
-    margin-left: 120px;
 }
 
 .four {
-    width: 150px;
-    height: 150px;
     background-color: rgba(0, 0, 0, 0.144);
-    margin-bottom: 10px;
-    margin-left: 120px;
 }
 
 .container {
+    padding: 15px;
     background-color: rgb(243, 229, 210);
     width: 400px;
     height: 900px;
-    
-
-   
-
 }
